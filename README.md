@@ -20,3 +20,4 @@ This project performs Exploratory Data Analysis (EDA) on IPL match data using Py
 - Venue analysis
 
 ## Author
+Kaustubh Patil
